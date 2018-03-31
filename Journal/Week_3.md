@@ -101,7 +101,7 @@ directory.
 
 _Explanation_
 
-This behabior happens when this task is the first one, and therefore 
+This behaviour happens when this task is the first one, and therefore 
 bionode-watermill searches for the inputs in `process.cwd()`, i.e., _current 
 working directory_.
 
